@@ -1,1 +1,1 @@
-print(from command)
+print("from command")
